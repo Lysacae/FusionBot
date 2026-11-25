@@ -1,0 +1,10 @@
+bin/
+obj/
+publish/
+tools/
+.vs/
+*.user
+*.suo
+*.log
+*.pdb
+Thumbs.db
